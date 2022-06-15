@@ -11,7 +11,7 @@
   bottom: 0;
   width: 60px;
   right: -80px;
-  animation: pipe-animation 3s infinite linear;
+  animation: pipe-animation 2s infinite linear;
 }
 .game__board-mario {
   width: 150px;
@@ -40,6 +40,9 @@
     bottom: 180px;
   }
   60% {
+    bottom: 180px;
+  }
+  80% {
     bottom: 180px;
   }
   100% {
