@@ -1,0 +1,6 @@
+.game-board {
+  width: 80%;
+  height: 500px;
+  border: 1px solid var(--border);
+  margin: 0 auto;
+}
