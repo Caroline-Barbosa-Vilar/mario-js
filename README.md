@@ -1,16 +1,16 @@
 <div align='center'> <img src="./assets/game-template.png" alt="the original game template"> </div>
 
 
+
 <div align='center'>
   <a href="https://github.com/Caroline-Barbosa-Vilar/mario-js/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/Caroline-Barbosa-Vilar/mario-js"></a>
   <a href="https://github.com/Caroline-Barbosa-Vilar/mario-js/network"><img alt="GitHub forks" src="https://img.shields.io/github/forks/Caroline-Barbosa-Vilar/mario-js"></a>
   <a href="https://github.com/Caroline-Barbosa-Vilar/mario-js/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/Caroline-Barbosa-Vilar/mario-js"></a> 
+  
+  <img src="http://img.shields.io/static/v1?label=STATUS&message=DEVELOPING&color=yellow&style=for-the-badge"/>
 </div>
 
 _Para a versão em Português, clique [aqui](#portuguese)._ 
-
-<br>
-
 
 
 ### Topics
@@ -91,6 +91,8 @@ Desktop:
   <a href="https://github.com/Caroline-Barbosa-Vilar/mario-js/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/Caroline-Barbosa-Vilar/mario-js"></a>
   <a href="https://github.com/Caroline-Barbosa-Vilar/mario-js/network"><img alt="GitHub forks" src="https://img.shields.io/github/forks/Caroline-Barbosa-Vilar/mario-js"></a>
   <a href="https://github.com/Caroline-Barbosa-Vilar/mario-js/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/Caroline-Barbosa-Vilar/mario-js"></a> 
+ 
+   <img src="http://img.shields.io/static/v1?label=STATUS&message=DEVELOPING&color=yellow&style=for-the-badge"/>
 </div>
 
   
