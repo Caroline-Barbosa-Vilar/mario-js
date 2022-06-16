@@ -7,6 +7,8 @@
   <a href="https://github.com/Caroline-Barbosa-Vilar/mario-js/network"><img alt="GitHub forks" src="https://img.shields.io/github/forks/Caroline-Barbosa-Vilar/mario-js"></a>
   <a href="https://github.com/Caroline-Barbosa-Vilar/mario-js/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/Caroline-Barbosa-Vilar/mario-js"></a> 
   
+  <br>
+  
   <img src="http://img.shields.io/static/v1?label=STATUS&message=DEVELOPING&color=yellow&style=for-the-badge"/>
 </div>
 
