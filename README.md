@@ -1,9 +1,6 @@
 <div align='center'> <img src="./assets/game-template.png" alt="the original game template"> </div>
 
 
-![](https://i.imgur.com/waxVImv.png)
-
-
 <div align='center'>
   <a href="https://github.com/Caroline-Barbosa-Vilar/mario-js/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/Caroline-Barbosa-Vilar/mario-js"></a>
   <a href="https://github.com/Caroline-Barbosa-Vilar/mario-js/network"><img alt="GitHub forks" src="https://img.shields.io/github/forks/Caroline-Barbosa-Vilar/mario-js"></a>
@@ -12,9 +9,11 @@
 
 _Para a versão em Português, clique [aqui](#portuguese)._ 
 
+<br>
 
 ![](https://i.imgur.com/waxVImv.png)
 
+<br>
 
 ### Topics
 
@@ -30,11 +29,15 @@ _Para a versão em Português, clique [aqui](#portuguese)._
 
 - [Future improvements](#future-improvements)
 
+<br>
 
 ![](https://i.imgur.com/waxVImv.png)
 
+<br>
 
 ## Project description
+
+<br>
 
 <p align="justify">
   This project was created to train animations with JavaScript. It is a 'Mario Bros.' mini-game that simulates the character's challenge to jump over pipes so that he does not lose lives in the game, which happens if the character touches the pipe.
@@ -42,6 +45,7 @@ _Para a versão em Português, clique [aqui](#portuguese)._
 
 
 ![](https://i.imgur.com/waxVImv.png)
+
 
 
 ## Technologies used
@@ -53,7 +57,9 @@ _Para a versão em Português, clique [aqui](#portuguese)._
 </div>
 
 
+
 ![](https://i.imgur.com/waxVImv.png)
+
 
 
 ## What I learned
@@ -62,7 +68,9 @@ _Para a versão em Português, clique [aqui](#portuguese)._
 - How to use JS to access the style in the CSS, using the style + the name of the animation (in the keyframe) and check the distance between the character and the pipe thus calculating when to stop the game (character lost a life) using a template literals + the position of the pipe + position of the character (with getComputedStyle method).
 
 
+
 ![](https://i.imgur.com/waxVImv.png)
+
 
 
 ## How to access the Project and play
