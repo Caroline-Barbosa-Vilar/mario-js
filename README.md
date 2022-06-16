@@ -11,9 +11,7 @@ _Para a versão em Português, clique [aqui](#portuguese)._
 
 <br>
 
-![](https://i.imgur.com/waxVImv.png)
 
-<br>
 
 ### Topics
 
@@ -29,22 +27,14 @@ _Para a versão em Português, clique [aqui](#portuguese)._
 
 - [Future improvements](#future-improvements)
 
-<br>
 
-![](https://i.imgur.com/waxVImv.png)
-
-<br>
 
 ## Project description
 
-<br>
 
 <p align="justify">
   This project was created to train animations with JavaScript. It is a 'Mario Bros.' mini-game that simulates the character's challenge to jump over pipes so that he does not lose lives in the game, which happens if the character touches the pipe.
 </p>
-
-
-![](https://i.imgur.com/waxVImv.png)
 
 
 
@@ -58,18 +48,10 @@ _Para a versão em Português, clique [aqui](#portuguese)._
 
 
 
-![](https://i.imgur.com/waxVImv.png)
-
-
-
 ## What I learned
 
 - How to make the CSS animation (which makes the character jump) work 'in a loop' (inserting and removing the class in the CSS) with an arrow function in JS that uses the add method + the CSS class to call the class, the setTimeout function (which uses the time set in the CSS) + the remove method to insert and remove the class in the CSS when the key is pressed;
 - How to use JS to access the style in the CSS, using the style + the name of the animation (in the keyframe) and check the distance between the character and the pipe thus calculating when to stop the game (character lost a life) using a template literals + the position of the pipe + position of the character (with getComputedStyle method).
-
-
-
-![](https://i.imgur.com/waxVImv.png)
 
 
 
@@ -81,8 +63,6 @@ You can [access the project here](https://caroline-barbosa-vilar.github.io/mario
 - If Mario does not jump the pipe in time the game ends, in this case refresh the page to load the game again.
 
 
-![](https://i.imgur.com/waxVImv.png)
-
 
 ## The result 
 
@@ -90,8 +70,6 @@ Desktop:
 
 <img src="./assets/mario-js-desktop-screen.gif" alt="the game screen gif">
 
-
-![](https://i.imgur.com/waxVImv.png)
 
 
 ## Future improvements
@@ -101,8 +79,6 @@ Desktop:
 - Make the background look more like the 'real one' in the game;
 - Insert some sort of a soundtrack.
 
-
-![](https://i.imgur.com/waxVImv.png)
 
 
 <div id="portuguese">
@@ -117,8 +93,6 @@ Desktop:
   <a href="https://github.com/Caroline-Barbosa-Vilar/mario-js/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/Caroline-Barbosa-Vilar/mario-js"></a> 
 </div>
 
-
-![](https://i.imgur.com/waxVImv.png)
   
   
 ### Tópicos 
@@ -136,8 +110,6 @@ Desktop:
 - [Futuras melhorias](#futuras-melhorias)
 
   
-![](https://i.imgur.com/waxVImv.png)
-  
   
 ## Descrição do projeto 
 
@@ -145,8 +117,6 @@ Desktop:
   Este projeto foi criado para treinar animações com JavaScript. É um mini-jogo do 'Mario Bros.' que simula p desafio do personagem de pular os canos para que não perca vidas no jogo, o que acontece se o personagem encostar no cano.
 </p>
 
-
-![](https://i.imgur.com/waxVImv.png)
   
   
 ## Tecnologias utilizadas
@@ -157,8 +127,6 @@ Desktop:
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 </div>
 
-
-![](https://i.imgur.com/waxVImv.png)
   
   
 ## O que aprendi
@@ -167,8 +135,6 @@ Desktop:
 - Como usar o JS para acessar o estilo no CSS, usando o style + o nome da animação (no keyframe) e verificar a distância entre o personagem e o cano calculando assim quando parar o jogo (personagem perdeu uma vida) usando um template literals + a posição do cano + posição do personagem (com método getComputedStyle).
 
 
-![](https://i.imgur.com/waxVImv.png)
-
   
 ## Como acessar o projeto e jogar
 
@@ -176,10 +142,8 @@ Você pode [acessar o projeto aqui](https://caroline-barbosa-vilar.github.io/mar
   
 - Para jogar é preciso pressionar a tecla keyUp do teclado quando chegar próximo ao cano e manter pressionada até que o cano passe por completo. 
 - Caso o Mario não pule o cano a tempo o jogo termina, nesse caso dar um refresh na página para carregar o jogo novamente. 
+
   
-
-![](https://i.imgur.com/waxVImv.png)
-
   
 ## O resultado  
 
@@ -188,7 +152,6 @@ Desktop:
 <img src="./assets/mario-js-desktop-screen.gif" alt="the game desktop screen gif">
 
 
-![](https://i.imgur.com/waxVImv.png)
   
 ## Futuras melhorias
   
