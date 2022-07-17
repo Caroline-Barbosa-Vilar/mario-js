@@ -77,11 +77,9 @@ Desktop:
 
 ## Future improvements
 
-- Fixed the clouds bug;
 - Shown the 'Game over' message when the character touches the pipe;
 - Make the background look more like the 'real one' in the game;
 - Insert some sort of a soundtrack.
-
 
 
 <div id="portuguese">
@@ -163,7 +161,6 @@ Desktop:
   
 ## Futuras melhorias
   
-- Corrigir o bug nas nuvens;
 - Mostrar a mensagem de 'game over' quando o personagem tocar o cano;
 - Fazer o background mais parecido com o do vide-game;
 - Inserir a musiquinha do video-game de fundo.  
